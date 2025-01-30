@@ -30,13 +30,16 @@ Working on this project allowed me to gain hands-on experience in Natural Langua
 
 ![Image](https://github.com/user-attachments/assets/895e94ce-73cf-42c3-b8ef-e72b1ca024a7)
 
-Output of Tell me about the Resume
+*Output of Tell me about the Resume*
 
 ![Image](https://github.com/user-attachments/assets/36c8f5b2-714a-41ba-932c-59199113e2cf)
 
 ![Image](https://github.com/user-attachments/assets/74294d99-098d-4429-8745-ad58116b1c24)
 
 ![Image](https://github.com/user-attachments/assets/92bf1328-6719-4958-8a90-d1ebe1a4ad16)
+
+*Ouput of Resume Match Analysis*
+
 
 
 
