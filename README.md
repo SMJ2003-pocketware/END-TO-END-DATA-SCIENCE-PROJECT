@@ -40,6 +40,8 @@ Working on this project allowed me to gain hands-on experience in Natural Langua
 
 *Ouput of Resume Match Analysis*
 
+![Image](https://github.com/user-attachments/assets/288c91a6-5685-4bdd-853b-67f6621afb33)
+
 
 
 
