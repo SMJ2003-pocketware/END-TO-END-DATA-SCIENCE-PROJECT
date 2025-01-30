@@ -28,4 +28,8 @@ Working on this project allowed me to gain hands-on experience in Natural Langua
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/895e94ce-73cf-42c3-b8ef-e72b1ca024a7)
+
+
+
 
