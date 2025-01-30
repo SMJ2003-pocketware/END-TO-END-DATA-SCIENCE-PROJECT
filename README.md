@@ -46,6 +46,9 @@ Working on this project allowed me to gain hands-on experience in Natural Langua
 
 ![Image](https://github.com/user-attachments/assets/ab75ecb2-e7b9-4f2c-90e5-9367f1c8405b)
 
+![Image](https://github.com/user-attachments/assets/7fe74be0-1641-44f6-b04c-5e59250e3e3b)
+
+
 
 
 
