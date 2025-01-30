@@ -50,6 +50,7 @@ Working on this project allowed me to gain hands-on experience in Natural Langua
 
 *Ouput for Generate Resume summary*
 
+![Image](https://github.com/user-attachments/assets/1198e4d1-124d-45c3-93a5-46658443fe70)
 
 
 
