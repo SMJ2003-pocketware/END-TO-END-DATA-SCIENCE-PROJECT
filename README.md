@@ -30,6 +30,8 @@ Working on this project allowed me to gain hands-on experience in Natural Langua
 
 ![Image](https://github.com/user-attachments/assets/895e94ce-73cf-42c3-b8ef-e72b1ca024a7)
 
+Output of Tell me about the Resume
+
 
 
 
