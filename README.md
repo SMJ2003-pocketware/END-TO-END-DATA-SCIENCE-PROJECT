@@ -42,6 +42,8 @@ Working on this project allowed me to gain hands-on experience in Natural Langua
 
 ![Image](https://github.com/user-attachments/assets/288c91a6-5685-4bdd-853b-67f6621afb33)
 
+*Ouput of Check Resume Formatting*
+
 
 
 
