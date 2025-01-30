@@ -25,3 +25,7 @@ The Google Gemini AI model plays a crucial role in generating human-like respons
 One of the most important features of this project is the ability to generate a downloadable ATS Resume Analysis Report. The report includes the match percentage, missing keywords, and an AI-generated analysis of the resume. This feature was implemented using the ReportLab library, which allowed me to dynamically generate PDFs.
 This Resume Analyzer can be widely applied in career coaching, recruitment agencies, and personal job application strategies. It helps job seekers optimize their resumes based on ATS-friendly formatting and provides valuable insights that can improve job search outcomes. Since many companies use ATS to filter resumes, this project offers a practical solution for increasing a candidate's chances of passing initial screenings.
 Working on this project allowed me to gain hands-on experience in Natural Language Processing (NLP), API integration, data extraction, and building interactive web applications. Using Google Colab helped me quickly test different functionalities, and Streamlit made it easy to turn the Python script into a functional web-based Resume Analyzer. Overall, this project was an exciting blend of AI, NLP, and web application development, making it highly relevant in today's job market.
+
+*OUTPUT*
+
+
